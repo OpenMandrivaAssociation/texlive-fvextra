@@ -1,5 +1,5 @@
 Name:		texlive-fvextra
-Version:	49947
+Version:	65158
 Release:	1
 Summary:	Extensions and patches for fancyvrb
 Group:		Publishing
