@@ -1,6 +1,6 @@
 Name:		texlive-fvextra
 Version:	65158
-Release:	1
+Release:	2
 Summary:	Extensions and patches for fancyvrb
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fvextra
